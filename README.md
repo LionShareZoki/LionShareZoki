@@ -5,9 +5,8 @@
 
 - 🌱 I’m currently learning **The odin project**
 
-- 📫 How to reach me **pujic.zoran@gmail.com**
+- 📫 Reach me out **pujic.zoran@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/Zoran/Downloads/CV_Zoran%20Puji%C4%87.pdf](file:///C:/Users/Zoran/Downloads/CV_Zoran%20Puji%C4%87.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
