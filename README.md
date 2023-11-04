@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lionsharezoki&label=Profile%20views&color=0e75b6&style=flat" alt="lionsharezoki" /> </p>
 
-- 🌱 I’m currently learning **The odin project**
 
 - 📫 Reach me out **pujic.zoran@gmail.com**
 
