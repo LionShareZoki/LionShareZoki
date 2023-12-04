@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Zoran Pujić</h1>
-<h3 align="center">Junior frontend developer from Croatia</h3>
+<h3 align="center">Junior web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lionsharezoki&label=Profile%20views&color=0e75b6&style=flat" alt="lionsharezoki" /> </p>
 
